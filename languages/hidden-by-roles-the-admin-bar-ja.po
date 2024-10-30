@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hidden By Roles the Admin Bar\n"
+"POT-Creation-Date: 2020-07-16 10:17+0200\n"
+"PO-Revision-Date: 2020-07-16 10:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: HBRAB.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: HBRAB.php:202
+msgid "Settings"
+msgstr "設定"
+
+#: HBRAB.php:203
+msgid "More"
+msgstr "もっと"
+
+#: HBRAB.php:204
+msgid "Support"
+msgstr "サポート"
+
+#: inc/HBRABAdmin.php:30
+msgid ""
+"<section id=\"hbrabOptionPage\"><div class=\"hbrabTitle\"><h1>Hidden By "
+"Roles the Admin Bar</h1><h2>Customization of roles</h2></div>"
+msgstr ""
+"<section id=\"hbrabOptionPage\"><div class=\"hbrabTitle\"><h1>管理バーの役割"
+"によって非表示</h1><h2>ロールのカスタマイズ</h2></div>"
+
+#: inc/HBRABAdmin.php:31
+msgid ""
+"<div class=\"hbrabrow\"><div class=\"tablerow\"><table id=\"bodyRolesDisplay"
+"\"><thead><tr class=\"rowbodyRolesDisplay\"><th colspan=\"1\">Roles</th><th "
+"colspan=\"1\">Display</th><th colspan=\"1\">Status</th></tr></thead><tbody "
+"id=\"bodyListRolesDisplay\">"
+msgstr ""
+"<div class=\"hbrabrow\"><div class=\"tablerow\"><table id=\"bodyRolesDisplay"
+"\"><thead><tr class=\"rowbodyRolesDisplay\"><th colspan=\"1\">役割</th><th "
+"colspan=\"1\">表示</th><th colspan=\"1\">状態</th></tr></thead><tbody id="
+"\"bodyListRolesDisplay\">"
+
+#: inc/HBRABAdmin.php:54
+msgid ""
+"</tbody></table></div><div class=\"col2\"><div class=\"getcustom\"><h3 class="
+"\"getCust\">Roles Custom!</h3><div class=\"inside\"><p>If you use custom "
+"user roles, you can manage them thanks to the premium version</p>"
+msgstr ""
+"</tbody></table></div><div class=\"col2\"><div class=\"getcustom\"><h3 class="
+"\"getCust\">カスタムロール！</h3><div class=\"inside\"><p>カスタムユーザー"
+"ロールを使用している場合は、プレミアムバージョンを使用してそれらを管理できま"
+"す</p>"
+
+#: inc/HBRABAdmin.php:56
+msgid ""
+"target=\"_blank\" class=\"button button-primary\">Go Premium</a></div></div>"
+msgstr ""
+"target=\"_blank\" class=\"button button-primary\">プレミアムに</a></div></"
+"div>"
+
+#: inc/HBRABAdmin.php:57
+msgid "<div class=\"donate\"><h3 class=\"thank\">Thank You!</h3>"
+msgstr ""
+"<div class=\"donate\"><h3 class=\"thank\">ありがとうございました！</h3>"
+
+#: inc/HBRABAdmin.php:59
+msgid ""
+"<p>If you find this free plugin useful and want to help us finance future "
+"developments, you can make a donation. We look forward to your "
+"participation, it will be of great use. Again A big thank you to you!</p>"
+msgstr ""
+"<p>この無料のプラグインが便利で、今後の開発資金の調達を支援したい場合は、寄付"
+"を行うことができます。皆様のご参加を心よりお待ちしております。再びあなたに大"
+"きな感謝を！</p>"
+
+#: inc/HBRABAdmin.php:61
+msgid ""
+"target=\"_blank\" class=\"button button-primary\">Make a Donation</a></p></"
+"div></div></div></div>"
+msgstr ""
+"target=\"_blank\" class=\"button button-primary\">寄付をします</a></p></"
+"div></div></div></div>"
+
+#: inc/HBRABAdmin.php:62
+msgid ""
+"<div><p>In the event of a problem, you can be assisted by depositing a "
+"ticket at this address: "
+msgstr ""
+"<div><p>問題が発生した場合は、次のアドレスにチケットを預けてください。 "
+
+#: inc/HBRABAdmin.php:64
+msgid ""
+"<p>In the event of translation errors, please contact us at the following "
+"address: "
+msgstr "<p>翻訳エラーが発生した場合は、次のアドレスまでご連絡ください。 "
+
+#: inc/HBRABAdmin.php:66
+msgid ""
+".</p><p id=\"statusSave\">Save!</p><p id=\"statusError\">Error!</p></section>"
+msgstr ""
+".</p><p id=\"statusSave\">保存する!</p><p id=\"statusError\">エラー!</p></"
+"section>"
+
+#. Plugin Name of the plugin/theme
+msgid "Hidden By Roles the Admin Bar"
+msgstr "管理バーの役割によって非表示"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.kheloshop.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Free version of Hidden By Roles the Admin Bar allowing to hide the Admin Bar "
+"according to the roles of basic users. Configurable from the dedicated tab "
+"directly on the Wordpress Dashboard. A premium version managing custom roles "
+"available on https://kheloshop.com/nos-plugins/. Plugin translated into the "
+"following languages: Deutsche, Català, English, Français, Nihonjin, "
+"Português, Pǔtōnghuà."
+msgstr ""
+"管理者バーの役割によって非表示の無料版は、基本的なユーザーの役割に従って管理"
+"バーを非表示にできます。 Wordpressダッシュボードの専用タブから直接設定可能。 "
+"https://kheloshop.com/nos-plugins/で利用可能なカスタムロールを管理するプレミ"
+"アムバージョン。次の言語に翻訳されたプラグイン：ドイツ語、カタロニア語、英"
+"語、フランス語、日本神、ポルトガル語、プートゥングファ。"
+
+#. Author of the plugin/theme
+msgid "Saunier François"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.khelosinnovation.com/"
+msgstr ""

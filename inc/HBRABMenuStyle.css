@@ -1,0 +1,71 @@
+/*  Option plugin menu */
+
+td {
+    padding: 1em 3.5em;
+}
+
+#statusSave {
+    visibility: hidden;
+}
+
+#statusError {
+    visibility: hidden;
+}
+
+
+.colStatus[data-color='green'] {
+    color: limegreen;
+}
+
+.colStatus[data-color='red'] {
+    color: red;
+}
+
+.logokheloshop {
+    display: block;
+    height: auto;
+    margin: 0 auto 0.5em auto;
+    width: 200px;
+}
+
+.hbrabrow {
+    display: table;
+    width: 85vw;
+}
+
+.tablerow {
+    display: table-cell;
+    padding-right: 15px;
+    width: calc(100% - 280px);
+}
+
+.col2 {
+    display: table-cell;
+    width: 280px;
+}
+
+.getcustom {
+    margin-bottom: 2em;
+}
+
+#bodyRolesDisplay,
+.thank,
+.inside,
+.getCust {
+    background: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border: 1px solid rgb(204, 204, 204);
+    border-top: 0;
+    padding: 1em;
+}
+
+
+.thank,
+.getCust {
+    margin: 0;
+}
+
+.button-primary {
+    background: #42b6f6 !important;
+    border-color: #42b6f6 !important;
+}
